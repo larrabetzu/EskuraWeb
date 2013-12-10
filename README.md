@@ -1,4 +1,4 @@
-LarrabetzukoAgendaWeb
+LarrabetzuEskuraWeb
 =====================
 
-Larrabetzuko Agenda digitalaren webgunea
+Larrabetzu Eskura webgunea
