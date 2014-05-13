@@ -36,8 +36,13 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',
     'mockups',
     'webgunea',
+    'Ekintzak',
+    'Elkarteak',
+    'Blogak',
+    'Sarrerak',
 )
 
 MIDDLEWARE_CLASSES = (
