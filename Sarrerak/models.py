@@ -8,5 +8,8 @@ class Sarrera(models.Model):
     sarrera_link = models.URLField()
     bloga = models.ForeignKey(Bloga)
 
+    def izena(self):
+        return self.bloga.izena
+
     def __unicode__(self):
         return self.tituloa #return "%s - %s "% (self.nor,self.tituloa)
